@@ -1,14 +1,14 @@
 Signature-Version: 1.0
-SHA-256-Digest-Manifest-Main-Attributes: X4aDt0BP68SmT06SxzsTJu0h0D7Z7
- LPCluSlCaTPmlg=
-SHA-256-Digest-Manifest: Ee5NVW30jkyXk+OiXVCR6NQyap8FRd9k1Nq5bmgkiEk=
-Created-By: 1.8.0_51 (Oracle Corporation)
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: HH3PGcAOPqxUHIF8hHHJFjnt9XRGPDi9YqqozcsyZdI=
+SHA-256-Digest-Manifest-Main-Attributes: VY78hpPLQQcQWsSBC6hJVVQI+2YQxvr
+ V/A0xv/y73/0=
 
 Name: epl-2.0.html
 SHA-256-Digest: AED4dAeGrOY0hc5nW8gJmyCMPlZ5rTF8ACL9TK1dx/Q=
 
 Name: feature.xml
-SHA-256-Digest: TQyAm4DxoDVJwcLGOq5SdoxCJLY0jYEZXQ9OEl6k+80=
+SHA-256-Digest: v+vy8b9aK81Vv1VKwokdkl0qRSPU/Syst8lNVo7w8DU=
 
 Name: eclipse_update_120.jpg
 SHA-256-Digest: D0fcUhJi81TIzNC+lAri7RDcArlCr58r7+VK17FdonE=
